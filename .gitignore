@@ -1,0 +1,5 @@
+# PDF paper tidak di-push (ukuran besar dan berhak cipta)
+data/papers/*.pdf
+__pycache__/
+*.pyc
+.env
